@@ -1,11 +1,10 @@
 ---
 layout: post
-title:      "formated like this"
-date:       2020-06-23 01:07:24 +0000
+title:      "The Movie Analysis Project"
+date:       2020-06-22 21:07:25 -0400
 permalink:  formated_like_this
 ---
 
-**The Movie Analysis Project**
 
 Time passes quickly as I am approaching the last day to finish my first project. It has been a great journey so far. I started this project by spending a couple of hours on the internet to learn about the film industry. I came across an article about how Netflix became a multi-billion dollar company in just 20 years. I am inspired to learn that it is important for leaders to have clear visions. The company was found by leasing DVDs to customers through mail service. The legend has it that Reed Hastings got charged for a $40 late fee when he returned Apollo 13 so he wanted to provide a better rental service that offered no late fee. After 10 years in the business, the founders of Netflix Marc Randolph and Reed Hastings knew that the DVD rental business would not last forever and saw the value in streaming technologies. In 2007, Netflix introduced its online streaming service. Since then, there are many companies also provide streaming service such as Amazon, Disney, Hulu, and Apple to name a few. However, Microsoft does not currently offer one. This made me think that this project might be more real than just a class project acting as a showcase for what we have learned so far about coding. 
 
